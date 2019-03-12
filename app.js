@@ -27,7 +27,7 @@ const fs = require("fs");
 const multer = require("multer");
 
 //3:指定监听端口3000
-app.listen(3030);
+app.listen(5050);
 //4:指定静态目录 public
 // __dirname 当前程序所属目录绝对路径 
 //app.js vue_app_server
